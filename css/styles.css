@@ -1,0 +1,26 @@
+main {
+  padding: 1em;
+  border: 1em dotted white;
+
+  background-color: #d7b36c;
+  /* background-image: url("/img/man16.png"); */
+  /* background-position: bottom left; */
+  /* background-size: 50%; */
+  /* background-repeat: no-repeat; */
+  /* background-origin: border-box; */
+  /* background-clip: text; */
+  /* -webkit-background-clip: text; */
+  /* color: transparent; */
+}
+
+/* main {
+  background-color: #d7b36c;
+  background-image: url("/img/man16.png"), url("/img/kraft2.jpg");
+  background-size: contain, cover;
+  background-repeat: no-repeat, repeat;
+  background-position: bottom left;
+  background-size: 150%, 100%;
+  background-origin:padding-box, padding-box;
+
+  border: 1em dotted #a93;
+} */
