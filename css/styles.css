@@ -3,7 +3,7 @@ main {
   border: 1em dotted white;
 
   background-color: #d7b36c;
-  /* background-image: url("/img/man16.png"); */
+  background-image: url("/img/man16.png");
   /* background-position: bottom` left; */
   /* background-size: 50%; */
   /* background-repeat: no-repeat; */
@@ -13,6 +13,13 @@ main {
   /* -webkit-background-clip: text; */
   /* color: transparent; */
 }
+
+
+/* h1 {
+  font-size: 15vw;
+  text-align: center;
+  padding-top: 1.85em;
+} */
 
 
 /* main {
